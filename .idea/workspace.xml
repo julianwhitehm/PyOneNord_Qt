@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e5ca94-a3f1-478e-b488-bcfd33fc32d4" name="Changes" comment="Rename.">
+    <list default="true" id="f3e5ca94-a3f1-478e-b488-bcfd33fc32d4" name="Changes" comment="Pushing Nord colours.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui/themes/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/gui/themes/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/uis/pages/ui_main_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/uis/pages/ui_main_pages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/uis/windows/main_window/setup_main_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/uis/windows/main_window/setup_main_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658572563887</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Pushing Nord colours.">
+      <created>1658577503385</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658577503385</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Rename." />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename." />
+    <MESSAGE value="Pushing Nord colours." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing Nord colours." />
   </component>
 </project>
